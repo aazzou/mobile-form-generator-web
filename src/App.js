@@ -46,6 +46,7 @@ class App extends React.Component {
         <DevTools />
          <Router>
            <div>
+           <Route path='/' component={Studio} />
             <Route exact path='/login' component={Login} />
             <Route path='/studio' component={Studio} />
             <PrivateRoute exact path='/home' component={Home} />
