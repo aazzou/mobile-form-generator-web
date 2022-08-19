@@ -13,7 +13,7 @@ import { Socket as PhoenixSocket } from 'phoenix';
 import { ApolloProvider } from 'react-apollo'
 import ApolloClient from 'apollo-boost'
 
-const GQL_URL = "https://api.owline.io/graphql"
+const GQL_URL = "https://localhost:3000/graphql"
 
 const client = new ApolloClient({ 
   uri: GQL_URL,
