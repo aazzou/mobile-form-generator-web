@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+th.column-action,
+td.column-action {
+  text-align: right !important;
+}

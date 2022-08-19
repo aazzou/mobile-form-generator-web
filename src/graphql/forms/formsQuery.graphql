@@ -1,0 +1,8 @@
+query forms($offset: Int, $keywords: String) {
+  formsCount(keywords: $keywords)
+  forms(offset: $offset, keywords: $keywords) {
+    id
+    name
+    description
+  }
+}

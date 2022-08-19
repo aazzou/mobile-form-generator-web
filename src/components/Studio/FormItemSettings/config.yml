@@ -1,0 +1,11 @@
+title:
+  content: string
+logo:
+  url: string
+text:
+  label: string
+  field_name: string
+  placeholder: string
+  tooltip: string
+  default_value: string
+

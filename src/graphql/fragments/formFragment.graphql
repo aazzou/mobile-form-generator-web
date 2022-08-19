@@ -1,0 +1,6 @@
+fragment FormFragment on Form {
+  id
+  name
+  description
+  inserted_at
+}
