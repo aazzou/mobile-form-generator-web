@@ -5,4 +5,4 @@ A React App using a GraphQL Api backend, See https://github.com/aazzou/mobile-fo
 Main packages are Antd Design Framework for UI components and GraphQL Apollo
 
 ![Form Studio](https://i.imgur.com/TkjVSJ8.png "Form Studio")
-![Demo](https://i.imgur.com/tGLfiXM.gif "Demo")
+![Demo](https://i.imgur.com/tGLfiXM.gifv "Demo")
